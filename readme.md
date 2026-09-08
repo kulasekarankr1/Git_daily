@@ -3,6 +3,9 @@ Hi Guys this is the Git and GitHub learning session in the step by step for unde
 " HI macha epdi irruka "
 ## This is in bug branch made some changes to check whether it is branched
 
+## This names is new bug branch and this is the branch of new bug derived from the main file
+## is it all going fine?
+
 zero to Adavance learning class
 git is used for sharing the project with the team to note individual changes
 
