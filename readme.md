@@ -11,7 +11,7 @@ git is used for sharing the project with the team to note individual changes
 2. no need to mention what are the changes have been made to make a note of changes . so 
 
 3. Repository - folder
-4. .git - hidden folder (used to track the code , what are the changes has made 
+4. .git - hidden folder (used to track the code , what are the changes has made
 5.commit - used to have snapshot , idhu varaikum panadhellam podhum lock panni vichukum
 6. commit message - eg. darkmode i was working , so it will remember what are the changes we had changed int eh commit 
 as a text
