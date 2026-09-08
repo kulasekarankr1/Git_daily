@@ -2,6 +2,8 @@ Hi Guys this is the Git and GitHub learning session in the step by step for unde
 
 " HI macha epdi irruka "
 
+## A. "Changes wer made to understand the Branches"- from feature branch
+
 zero to Adavance learning class
 git is used for sharing the project with the team to note individual changes
 
